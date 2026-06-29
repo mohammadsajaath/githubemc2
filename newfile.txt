@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-somthing add
-=======
-added somthing
->>>>>>> gitbranch1
+hi
